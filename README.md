@@ -23,4 +23,4 @@ Este é um aplicativo de console simples, escrito em Python, que permite ao usu�
 
 Além deste projeto prático, organizei todas as minhas anotações de estudo sobre os conceitos de Python utilizados aqui. Elas servem como um guia teórico e um registro do meu aprendizado, cobrindo desde a instalação do Python até o uso de bibliotecas.
 
-➡️ **[Clique aqui para ver minhas notas de estudo sobre Lógica de Programação com Python](./notas_de_estudo/README)**
+➡️ **[Clique aqui para ver minhas notas de estudo sobre Lógica de Programação com Python](./notas_de_estudo/README.md)**
